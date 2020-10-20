@@ -1,0 +1,18 @@
+*.sw[a-z]
+*.py[oc]
+*.log
+
+*.egg-info/
+*.tox/
+
+.idea
+.venv
+
+.cache
+.coverage
+
+# Python release artifacts
+build/
+dist/
+.pytest_cache/
+docs/build/
